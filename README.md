@@ -45,7 +45,7 @@ a. Стиль карты можно взять здесь https://mapstyle.withg
 
 Использование шрифта как в макете
 Шрифты подключаем через Google Fonts и @font-face
-5. Кроссбраузерность Chrome, Firefox, Opera, IE11++
+5. Кроссбраузерность Chrome, Firefox, Opera, IE
 
 6. Все интерактивные элементы должны иметь :hover, :focus стили
 
